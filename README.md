@@ -1,0 +1,2 @@
+# autocompleter
+Suggest box based on PrototypeJS framework written in late 2009
